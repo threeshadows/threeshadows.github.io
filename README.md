@@ -1,6 +1,6 @@
 ## Qi Li Portfolio
 
-<img src="images/logo.jpg?raw=true"/>
+<img src="images/logo.jpg?raw=true" width="30%" height="30%"/>
 
 ### Introduction
 
